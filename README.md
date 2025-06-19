@@ -18,27 +18,26 @@ This project implements a multi-start algorithm with the iterated decremental lo
 - GCC/G++ compiler
 
 ### Compilation Commands
-```bash
-# Navigate to the code directory
+#### Navigate to the code directory
 cd capmds-code/
 
-# Compile with O2 optimization level
+#### Compile with O2 optimization level
 g++ WeightedHymain-uniform.cpp -O2 -o capmds
 
-Execution Example
+##Execution Example
 
-# Run the bio-dmelaUniform-2 instance
+### Run the bio-dmelaUniform-2 instance
 ./capmds Uniform2/bio-dmelaUniform-2
 
-# General instance format (adjust according to actual directory structure)
+### General instance format (adjust according to actual directory structure)
 ./capmds [instance_path]/[instance_name]
 
-Test Datasets
+##Test Datasets
 Due to the large size of test instance files (containing 6 capacity variants), they cannot be stored directly in the GitHub repository. Please download them via Baidu Netdisk:
 
 Test Dataset Download Link:
 https://pan.baidu.com/s/1xxxxxxxxxxxxxx
 Access Code: abcd
 
-Technical Support
+##Technical Support
 For any issues, please submit them through the Issues section, and we will respond promptly.
