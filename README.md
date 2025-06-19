@@ -7,7 +7,7 @@ This project implements a multi-start algorithm with the iterated decremental lo
 ├── capmds-code/   #Source code directory  
 │ ├── WeightedHymain-uniform.cpp   #Main algorithm implementation  
 │ ├── Weighted-Init.hpp   #Initialization component  
-│ └── set.hpp   #Set operations utility  
+│ └── set.hpp    
 └── README.md   #This documentation file  
 
 ## Compilation Guide
@@ -25,7 +25,7 @@ g++ WeightedHymain-uniform.cpp -O2 -o capmds
 
 ##Execution Example
 
-### Run the bio-dmelaUniform-2 instance
+#### Run the bio-dmelaUniform-2 instance
 ./capmds Uniform2/bio-dmelaUniform-2
 
 ### General instance format (adjust according to actual directory structure)
