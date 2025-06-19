@@ -1,5 +1,4 @@
-# CAPMDS
-# MSIDLS Project Description
+# CAPMDS Project Description
 
 ## Project Overview
 This project implements a multi-start algorithm with the iterated decremental local search for solving the minimum capacitated dominating set problem (CAPMDS). The code is implemented in C++ with performance optimizations for large-scale instances.
