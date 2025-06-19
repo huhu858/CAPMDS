@@ -32,12 +32,18 @@ g++ WeightedHymain-uniform.cpp -O2 -o capmds
 ### General instance format (adjust according to actual directory structure)
 ./capmds [instance_path]/[instance_name]
 
-##Test Datasets
-Due to the large size of test instance files (containing 6 capacity variants), they cannot be stored directly in the GitHub repository. Please download them via Baidu Netdisk:
+
+
+
+## Test Datasets
+
+Due to the large size of test instance files (containing 6 capacity variants),
+they cannot be stored directly in the GitHub repository. 
+Please download them via Baidu Netdisk:
 
 Test Dataset Download Link:
 https://pan.baidu.com/s/1xxxxxxxxxxxxxx
 Access Code: abcd
 
-##Technical Support
+## Technical Support
 For any issues, please submit them through the Issues section, and we will respond promptly.
