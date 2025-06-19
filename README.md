@@ -42,8 +42,8 @@ they cannot be stored directly in the GitHub repository.
 Please download them via Baidu Netdisk:
 
 Test Dataset Download Link:
-https://pan.baidu.com/s/1xxxxxxxxxxxxxx
-Access Code: abcd
+https://pan.baidu.com/s/1leZ5kzTNawzibfjiyTs0xg?pwd=3t6d 
+Access Code: 3t6d
 
 ## Technical Support
 For any issues, please submit them through the Issues section, and we will respond promptly.
