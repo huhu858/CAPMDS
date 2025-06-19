@@ -5,11 +5,11 @@
 This project implements a multi-start algorithm with the iterated decremental local search for solving the minimum capacitated dominating set problem (CAPMDS). The code is implemented in C++ with performance optimizations for large-scale instances.
 
 ## Directory Structure
-├── capmds-code/ # Source code directory
-│ ├── WeightedHymain-uniform.cpp # Main algorithm implementation
-│ ├── Weighted-Init.hpp # Initialization component
-│ └── set.hpp # Set operations utility
-└── README.md # This documentation file
+├── capmds-code/   #Source code directory  
+│ ├── WeightedHymain-uniform.cpp   #Main algorithm implementation  
+│ ├── Weighted-Init.hpp   #Initialization component  
+│ └── set.hpp   #Set operations utility  
+└── README.md   #This documentation file  
 
 ## Compilation Guide
 
